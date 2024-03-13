@@ -1,3 +1,7 @@
+# Author: Saksham Goel
+# Version: 2024-03-13-r1
+# Email: mail@sakshamg.com
+
 board = [[None,None,None],
          [None,None,None],
          [None,None,None]]
